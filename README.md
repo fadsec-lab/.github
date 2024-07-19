@@ -2,7 +2,9 @@
 
 # FadSec Lab
 
-**FadSec Lab** is a suite of ad-free, privacy-focused open-source apps dedicated to enhancing user security and privacy. Our mission is to provide secure, efficient, and user-friendly applications that prioritize user data protection and eliminate intrusive ads.
+**FadSec Lab** is a suite of ad-free, privacy-focused open-source apps dedicated to enhancing user security and privacy. Our mission is to provide secure, efficient, and user-friendly applications that prioritize user data protection and eliminate intrusive ads. 
+
+<img alt="Discord" src="https://img.shields.io/discord/1263384048194027520?style=social&logo=discord&label=Join%20chat&color=red">
 </div>
 
 ---
@@ -19,20 +21,9 @@
 
 ---
 
-## Future Projects
-
-We are continuously working on developing more privacy-focused and ad-free apps. Stay tuned for updates!
-
----
-
 ## Join Our Community
 
-[![Discord](https://img.shields.io/discord/your-discord-server-id?label=Join%20Us%20on%20Discord&logo=discord)](https://discord.gg/your-discord-invite-link)
+[![Discord](https://img.shields.io/discord/1263384048194027520?label=Join%20Us%20on%20Discord&logo=discord)](https://discord.gg/kvAZvdkuuN )
 
 Feel free to explore, contribute, and share your feedback.
 
----
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
