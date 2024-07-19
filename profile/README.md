@@ -11,13 +11,32 @@
 
 ## 📱 Download Our Android App
 
-<img src="https://github.com/anonfaded/FadCam/assets/124708903/d6f99201-65c7-4c93-bf13-d4a0d65172ac" style="width: 80px; height: auto;" >
+### 1. [FadCam](https://github.com/anonfaded/FadCam/) 
 
-### [FadCam](https://github.com/anonfaded/FadCam/) 
+<table>
+  <tr>
+    <td style="text-align: left;">
+      <a href="https://github.com/anonfaded/FadCam/" target="_blank">
+        <img src="https://github.com/anonfaded/FadCam/assets/124708903/d6f99201-65c7-4c93-bf13-d4a0d65172ac" style="width: 80px; height: auto;" alt="FadCam logo">
+      </a>
+    </td>
+    <td>
+      <p><b>Total Downloads:</b></p>
+      <a href="https://github.com/anonfaded/FadCam/releases/">
+        <img src="https://img.shields.io/github/downloads/anonfaded/FadCam/total?label=Downloads%20Count&logo=github" alt="Total Downloads">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>An open-source Android cam recorder that allows seamless background video recording, even when the screen is off.</strong>
+    </td>
+  </tr>
+</table>
 
-[![GitHub all releases](https://img.shields.io/github/downloads/anonfaded/FadCam/total?label=Downloads&logo=github)](https://github.com/anonfaded/FadCam/releases/)
 
-❯ **An open-source Android cam recorder that allows seamless background video recording, even when the screen is off.**
+
+
 
 ---
 
