@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <strong>An open-source Android cam recorder that allows seamless background video recording, even when the screen is off.</strong>
+      <strong>Seamless background video recorder for Android – ad-free and open-source, with customizable options.</strong>
     </td>
   </tr>
 </table>
