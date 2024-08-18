@@ -13,6 +13,7 @@
 
 ### 1. [FadCam](https://github.com/anonfaded/FadCam/) 
 
+
 <table>
   <tr>
     <td style="text-align: left;">
@@ -30,6 +31,31 @@
   <tr>
     <td colspan="2">
       <strong>Seamless background video recorder for Android – ad-free and open-source, with customizable options.</strong>
+    </td>
+  </tr>
+</table>
+
+## 💻 Download Our Windows App
+
+### 1. [FadCrypt](https://github.com/anonfaded/FadCrypt/) 
+
+<table>
+  <tr>
+    <td style="text-align: left;">
+      <a href="https://github.com/anonfaded/FadCam/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/4816a7c8-9e71-4057-919e-5d2ffe08a950" style="width: 80px; height: auto;" alt="FadCam logo">
+      </a>
+    </td>
+    <td>
+      <p><b>Total Downloads:</b></p>
+      <a href="https://github.com/anonfaded/FadCam/releases/">
+        <img src="https://img.shields.io/github/downloads/anonfaded/FadCrypt/total?label=Downloads%20Count&logo=github" alt="Total Downloads">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>Advanced and elegant Windows app encryption – powerful, customizable, open-source, and completely free!</strong>
     </td>
   </tr>
 </table>
