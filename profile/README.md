@@ -2,7 +2,7 @@
 
 # FadSec Lab
 
-**FadSec Lab** is a suite of ad-free, privacy-focused open-source apps dedicated to enhancing user security and privacy. Our mission is to provide secure, efficient, and user-friendly applications that prioritize user data protection and eliminate intrusive ads. 
+**FadSec Lab** is a suite of Shariah Compliant, ad-free, privacy-focused open-source apps dedicated to enhancing user security and privacy. Our mission is to provide secure, efficient, and user-friendly applications that prioritize user data protection and eliminate intrusive ads. 
 
 [![Discord](https://img.shields.io/discord/1263384048194027520?label=Join%20Us%20on%20Discord&logo=discord)](https://discord.gg/kvAZvdkuuN )
 
