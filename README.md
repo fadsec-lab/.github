@@ -1,6 +1,7 @@
 <div align="center">
 
-# FadSec Lab
+
+![fadsec-main-footer](https://github.com/user-attachments/assets/595223bc-7b66-4cc1-a673-3d9fc55869d1)
 
 **FadSec Lab** is a suite of Shariah Compliant, ad-free, privacy-focused open-source apps dedicated to enhancing user security and privacy. Our mission is to provide secure, efficient, and user-friendly applications that prioritize user data protection and eliminate intrusive ads. 
 
