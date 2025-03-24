@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td style="text-align: left;">
-      <a href="https://github.com/anonfaded/FadCam/" target="_blank">
+      <a href="https://github.com/anonfaded/FadCrypt/" target="_blank">
         <img src="https://github.com/user-attachments/assets/4816a7c8-9e71-4057-919e-5d2ffe08a950" style="width: 80px; height: auto;" alt="FadCam logo">
       </a>
     </td>
