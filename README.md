@@ -37,20 +37,49 @@
   </tr>
 </table>
 
-## 💻 Download Our Windows App
+---
 
-### 1. [FadCrypt](https://github.com/anonfaded/FadCrypt/) 
+## 💻 Download Our Windows Apps
+
+### 1. [QuranCLI](https://github.com/anonfaded/QuranCLI/) 
+
+<table>
+  <tr>
+    <td style="text-align: left;">
+      <a href="https://github.com/anonfaded/QuranCLI/" target="_blank">
+        <img src="https://raw.githubusercontent.com/anonfaded/QuranCLI/main/icon.ico" style="width: 80px; height: auto;" alt="QuranCLI logo">
+      </a>
+    </td>
+    <td>
+      <p><b>Total Downloads:</b></p>
+      <a href="https://github.com/anonfaded/QuranCLI/releases/">
+        <img src="https://img.shields.io/github/downloads/anonfaded/QuranCLI/total?label=Downloads%20Count&logo=github" alt="Total Downloads">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>Your Terminal Companion for the Holy Quran: Read, Listen & Generate Subtitles for Video Editing!</strong>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+### 2. [FadCrypt](https://github.com/anonfaded/FadCrypt/) 
 
 <table>
   <tr>
     <td style="text-align: left;">
       <a href="https://github.com/anonfaded/FadCam/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/4816a7c8-9e71-4057-919e-5d2ffe08a950" style="width: 80px; height: auto;" alt="FadCam logo">
+        <img src="https://github.com/user-attachments/assets/4816a7c8-9e71-4057-919e-5d2ffe08a950" style="width: 80px; height: auto;" alt="FadCrypt logo">
       </a>
     </td>
     <td>
       <p><b>Total Downloads:</b></p>
-      <a href="https://github.com/anonfaded/FadCam/releases/">
+      <a href="https://github.com/anonfaded/FadCrypt/releases/">
         <img src="https://img.shields.io/github/downloads/anonfaded/FadCrypt/total?label=Downloads%20Count&logo=github" alt="Total Downloads">
       </a>
     </td>
@@ -61,6 +90,10 @@
     </td>
   </tr>
 </table>
+
+
+
+
 
 
 
