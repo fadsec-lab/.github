@@ -94,6 +94,31 @@
 
 
 
+### 2. [FadADB](https://github.com/anonfaded/FadADB/) 
+
+<table>
+  <tr>
+    <td style="text-align: left;">
+      <a href="https://github.com/anonfaded/FadADB/" target="_blank">
+        <img src="https://github.com/anonfaded/FadADB/blob/main/assets/img/FadADB-png.png" style="width: 80px; height: auto;" alt="FadADB logo">
+      </a>
+    </td>
+    <td>
+      <p><b>Total Downloads:</b></p>
+      <a href="https://github.com/anonfaded/FadADB/releases/">
+        <img src="https://img.shields.io/github/downloads/anonfaded/FadADB/total?label=Downloads%20Count&logo=github" alt="Total Downloads">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>ADB Manager for USB and Wireless Devices for development, debugging, and automation.</strong>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
