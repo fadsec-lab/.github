@@ -12,110 +12,70 @@
 
 ---
 
-## 📱 Download Our Android App
 
-### 1. [FadCam](https://github.com/anonfaded/FadCam/) 
 
-<table>
-  <tr>
-    <td style="text-align: left;">
-      <a href="https://github.com/anonfaded/FadCam/" target="_blank">
-        <img src="https://github.com/anonfaded/FadCam/assets/124708903/d6f99201-65c7-4c93-bf13-d4a0d65172ac" style="width: 80px; height: auto;" alt="FadCam logo">
-      </a>
-    </td>
-    <td>
-      <p><b>Total Downloads:</b></p>
-      <a href="https://github.com/anonfaded/FadCam/releases/">
-        <img src="https://img.shields.io/github/downloads/anonfaded/FadCam/total?label=Downloads%20Count&logo=github" alt="Total Downloads">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <strong>Seamless background video recorder for Android – ad-free and open-source, with customizable options.</strong>
-    </td>
-  </tr>
-</table>
+
+
+
+
+
+## 🌟 Highlighted & Production-Ready Projects
+
+| 🧩 Platform      | 🖼️ App                                                                                                                                                       | 📝 Description                                                                                                                      | 🧠 Tech | 🔗 Links                                                                                                                                                                                                            |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 Android       | <img src="https://github.com/anonfaded/FadCam/blob/6c4adb362a7382f5e89c2accde3491cf1bb8c9be/app/src/main/ic_launcher-playstore.png" width="50"><br>**FadCam** | A seamless, background video recorder for Android. Free, open-source, ad-free, and rich with customizations.                        | Java    | [🌐 Website](https://fadedhood.github.io/fadcam/) <br> [GitHub](https://github.com/anonfaded/FadCam) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/FadCam/total?label=Downloads&logo=github) |
+| 🤖 Android       | 🤖<br>**FadeBoard**                                                                                                                                           | Smart Android keyboard that converts normal characters to styled special characters for social media & creative use.                | Java    | [GitHub](https://github.com/anonfaded/fadeboard) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/fadeboard/total?label=Downloads&logo=github)                                                  |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/FadCrypt/blob/580767cc874dc31007225dd6338ff531f848a806/img/1.ico" width="50"><br>**FadCrypt**                          | Graphical app locker and encryption utility to secure access to programs and files with password protection.                        | Python  | [GitHub](https://github.com/anonfaded/FadCrypt) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/FadCrypt/total?label=Downloads&logo=github)                                                    |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/QuranCLI/raw/main/core/img/icon.png" width="50"><br>**QuranCLI**                                                       | Terminal-based Quran app for reading, listening, and generating subtitle-ready timestamps for video editing.                        | Python  | [GitHub](https://github.com/anonfaded/QuranCLI) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/QuranCLI/total?label=Downloads&logo=github)                                                    |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/FadADB/raw/main/assets/img/FadADB-png.png" width="50"><br>**FadADB**                                                   | GUI and CLI-based ADB manager for USB & wireless debugging, file transfers, and automation help.                                         | Python  | [GitHub](https://github.com/anonfaded/FadADB) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/FadADB/total?label=Downloads&logo=github)                                                        |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/robospeaker101/raw/main/img/3.png" width="40"> <br>**RoboSpeaker 101**                            | TTS app with voice options, speech logs, and save-as-audio feature. | Python | [GitHub](https://github.com/anonfaded/robospeaker101) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/robospeaker101/total?label=Downloads&logo=github) |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/payloads/blob/57ae59519c5e9fbc51da24218e644ba69f3b9e61/img/logo.png" width="40"> <br>**Payloads** | HID payloads for Raspberry Pi Pico.                                      | Ducky Script   | [GitHub](https://github.com/anonfaded/payloads)                                                                                                                              |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/fade-it/raw/main/s.png" width="40"> <br>**Fade-It**                                               | CLI-based text-to-special-characters converter to bypass censorship.                | Python | [GitHub](https://github.com/anonfaded/fade-it)                                                                                                                               |
+| 🐧 macOS/Linux   | <img src="https://github.com/anonfaded/wifade/blob/f0cca7437c063269fe71fdc593a7a75bca656262/img/logo.png" width="50"><br>**WiFade**                           | Shell-based script for brute-forcing Wi-Fi networks using password wordlists.                                       | Shell   | [GitHub](https://github.com/anonfaded/wifade) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/wifade/total?label=Downloads&logo=github)                                                        |
+| 📦 Library       | <img src="https://github.com/arthenica/ffmpeg-kit/blob/main/docs/assets/ffmpeg-kit-icon-v9.png" width="50"><br>**FFmpeg Kit (Mod)**                           | Full-GPL variant of FFmpeg-Kit modified with reproducible builds for F-Droid. For Flutter, Java etc and custom `AAR` build guide in README file. | Mixed   | [GitHub](https://github.com/anonfaded/ffmpeg-kit) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/ffmpeg-kit/total?label=Downloads&logo=github)                                                |
+| 🕸️ Web           | <img src="https://github.com/user-attachments/assets/b03fa601-9e53-4247-bad1-de5807a5fa31" width="50"><br>**CyberSec Blog Website Template** | A cybersecurity-themed Hugo website template. Built for easy setup in under 5 mins with detailed configuration guide.               | Hugo              | [GitHub](https://github.com/anonfaded/hugo-winston-cyber)                |
 
 ---
 
-## 💻 Download Our Windows Apps
+## 🧪 Upcoming Free Projects & Paid Tools
 
-### 1. [QuranCLI](https://github.com/anonfaded/QuranCLI/) 
+> *The following apps are either `free` or `paid`, and all are currently `in development` (coming soon).*
 
-<table>
-  <tr>
-    <td style="text-align: left;">
-      <a href="https://github.com/anonfaded/QuranCLI/" target="_blank">
-        <img src="https://raw.githubusercontent.com/anonfaded/QuranCLI/main/icon.ico" style="width: 80px; height: auto;" alt="QuranCLI logo">
-      </a>
-    </td>
-    <td>
-      <p><b>Total Downloads:</b></p>
-      <a href="https://github.com/anonfaded/QuranCLI/releases/">
-        <img src="https://img.shields.io/github/downloads/anonfaded/QuranCLI/total?label=Downloads%20Count&logo=github" alt="Total Downloads">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <strong>Your Terminal Companion for the Holy Quran: Read, Listen & Generate Subtitles for Video Editing!</strong>
-    </td>
-  </tr>
-</table>
+| Platform         | App                                                                                                                                                               | Description                                                                                                                        | Tech              | Status             |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------ |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/FadTwiX/blob/5b61987f3f455c6acab73bba8d19ed4d6b93155c/fadtwix_resources/images/fadtwix.png" width="50"><br>**FadTwiX**     | For Bulk posting with 5 tweets/minute speed, bulk delete support. Automates "Twitter/X" via Android device using Appium – no `X` API required. | Appium            | Paid / Coming Soon |
+| 🤖 Android       | 🤖<br>**FaditorX**                                                                                                                                                | Free, open-source Android video editor under development.                                                                          | Flutter           | Free / Coming Soon        |
+| 🤖 Android       | <img src="https://github.com/anonfaded/FadStore-app/blob/ec0d76caf6b916e3383efbd26096193cda67a94a/assets/logo.png" width="50"><br>**FadStore**                     | A modern app store to host all FadSec Lab apps. Features authentication and accounts setup via Firebase Database.                  | Kotlin + Firebase | Free / Coming Soon        |
+| 🤖 Android       | 🤖<br>**BloodDonor+** *(final name TBD)*                                                                                                                          | Blood Donation tracking app for blood organizations. Includes donor records, scheduling, and digital reports ready to send to Donor's WhatsApp number.                 | Kotlin + Firebase | Paid / Coming Soon |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/IDLookUpBot-eyecon/blob/017488931df5753cda4e0d03ad5c532e89277dc4/assets/ss1.png" width="50"><br>**ID Lookup Bot**        | Identity harvesting automation tool for security professionals. Extracts SIM owner details & optionally linked Facebook profiles via Android.          | Appium + Python   | Paid / Coming Soon    |
+| 🤖 Android       | <img src="https://github.com/anonfaded/FadVeil/blob/670e2f2577a91e5c4b5b83bd134e94993b2b2076/assets/FadVeil-png.png" width="50"><br>**FadVeil**              | Privacy-focused screen dimmer that conceals parts of your display to prevent visual distractions or for discretion.                | Kotlin            | Free / Coming Soon |
+| 💻 Windows/Linux | 💻<br>**FadSay**                                                                                                                                                  | Text-to-speech app with real-time on-screen captions. Speech-to-text (STT) AI features planned.                               | Python            | Free / Coming Soon        |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/FadCam/blob/6c4adb362a7382f5e89c2accde3491cf1bb8c9be/app/src/main/ic_launcher_bat-playstore.png" width="50"><br>**FadBat** | Monitors keystrokes, captures periodic screenshots, tracks browser activity and application usage, and sends real-time alerts via email. Ideal for parental supervision or personal system security   | Python            | Free / Coming Soon |
 
+---
 
+## 🧰 Additional Tools & Early Utilities
 
+<details>
+<summary>Click to view</summary>
 
+| Platform | App                                                                                                                                  | Description                                                                           | Tech   | Links |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/pdf-merger/blob/main/img/1.png" width="40"> **PDF Merger** | Merge PDF files via CLI or GUI. Supports drag-and-drop.                               | Python | [GitHub](https://github.com/anonfaded/pdf-merger) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/pdf-merger/total?label=Downloads&logo=github) |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/image-resizer/raw/main/img/1.png" width="40"> **Image Resizer** | Simple image resizing tool with GUI and CLI modes.                                    | Python | [GitHub](https://github.com/anonfaded/image-resizer) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/image-resizer/total?label=Downloads&logo=github) |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/weatherCLI/raw/main/img/2.png" width="40"> **weatherCLI** | Minimal weather checking app via command-line.                                        | Python | [GitHub](https://github.com/anonfaded/weatherCLI) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/weathercli/total?label=Downloads&logo=github) |
+| 💻 Windows | <img src="https://github.com/anonfaded/windows101/raw/main/img/ss.png" width="40"> **Windows101** | First experimental app built using C# for Windows.                                    | C#     | [GitHub](https://github.com/anonfaded/windows101) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/windows101/total?label=Downloads&logo=github) |
 
-### 2. [FadCrypt](https://github.com/anonfaded/FadCrypt/) 
+</details>
 
-<table>
-  <tr>
-    <td style="text-align: left;">
-      <a href="https://github.com/anonfaded/FadCam/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/4816a7c8-9e71-4057-919e-5d2ffe08a950" style="width: 80px; height: auto;" alt="FadCrypt logo">
-      </a>
-    </td>
-    <td>
-      <p><b>Total Downloads:</b></p>
-      <a href="https://github.com/anonfaded/FadCrypt/releases/">
-        <img src="https://img.shields.io/github/downloads/anonfaded/FadCrypt/total?label=Downloads%20Count&logo=github" alt="Total Downloads">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <strong>Advanced and elegant Windows app encryption – powerful, customizable, open-source, and completely free!</strong>
-    </td>
-  </tr>
-</table>
+---
 
+## 🤝 Contributions
 
+| Project                                                                                                         | Description                                                                                                   | Link                                                     |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="https://github.com/anonfaded/HaramBlur/blob/f50eca38393d3a0a0731db2c6a5085250788b235/src/assets/hb-icon-128.png" width="40"> **HaramBlur** | Browser extension to blur and reduce exposure to inappropriate content online. Added Arabic language support. | [PR #56](https://github.com/alganzory/HaramBlur/pull/56) |
 
-
-### 3. [FadADB](https://github.com/anonfaded/FadADB/) 
-
-<table>
-  <tr>
-    <td style="text-align: left;">
-      <a href="https://github.com/anonfaded/FadADB/" target="_blank">
-        <img src="https://github.com/anonfaded/FadADB/blob/main/assets/img/FadADB-png.png" style="width: 80px; height: auto;" alt="FadADB logo">
-      </a>
-    </td>
-    <td>
-      <p><b>Total Downloads:</b></p>
-      <a href="https://github.com/anonfaded/FadADB/releases/">
-        <img src="https://img.shields.io/github/downloads/anonfaded/FadADB/total?label=Downloads%20Count&logo=github" alt="Total Downloads">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <strong>ADB Manager for USB and Wireless Devices for development, debugging, and automation.</strong>
-    </td>
-  </tr>
-</table>
 
 
 
