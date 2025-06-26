@@ -28,8 +28,6 @@
 
 
 
-
-
 ## 🌟 Highlighted & Production-Ready Projects
 
 | 🧩 Platform      | 🖼️ App                                                                                                                                                       | 📝 Description                                                                                                                      | 🧠 Tech | 🔗 Links                                                                                                                                                                                                            |
@@ -70,29 +68,28 @@
 <details>
 <summary>Click to view</summary>
 
-| Platform | App                                                                                                                                  | Description                                                                           | Tech   | Links |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| 💻 Windows/Linux | <img src="https://github.com/anonfaded/pdf-merger/blob/main/img/1.png" width="40"> **PDF Merger** | Merge PDF files via CLI or GUI. Supports drag-and-drop.                               | Python | [GitHub](https://github.com/anonfaded/pdf-merger) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/pdf-merger/total?label=Downloads&logo=github) |
-| 💻 Windows/Linux | <img src="https://github.com/anonfaded/image-resizer/raw/main/img/1.png" width="40"> **Image Resizer** | Simple image resizing tool with GUI and CLI modes.                                    | Python | [GitHub](https://github.com/anonfaded/image-resizer) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/image-resizer/total?label=Downloads&logo=github) |
-| 💻 Windows/Linux | <img src="https://github.com/anonfaded/weatherCLI/raw/main/img/2.png" width="40"> **weatherCLI** | Minimal weather checking app via command-line.                                        | Python | [GitHub](https://github.com/anonfaded/weatherCLI) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/weathercli/total?label=Downloads&logo=github) |
-| 💻 Windows | <img src="https://github.com/anonfaded/windows101/raw/main/img/ss.png" width="40"> **Windows101** | First experimental app built using C# for Windows.                                    | C#     | [GitHub](https://github.com/anonfaded/windows101) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/windows101/total?label=Downloads&logo=github) |
+| Platform | App                                                                                                                                  | Description                                                                           | Tech   | Links                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/pdf-merger/blob/main/img/1.png" width="40"><br> **PDF Merger**                                    | Merge PDF files via CLI or GUI. Supports drag-and-drop.                               | Python | [GitHub](https://github.com/anonfaded/pdf-merger) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/pdf-merger/total?label=Downloads\&logo=github)         |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/image-resizer/raw/main/img/1.png" width="40"><br> **Image Resizer**                               | Simple image resizing tool with GUI and CLI modes.                                    | Python | [GitHub](https://github.com/anonfaded/image-resizer) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/image-resizer/total?label=Downloads\&logo=github)   |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/weatherCLI/raw/main/img/2.png" width="40"><br> **weatherCLI**                                     | Minimal weather checking app via command-line.                                        | Python | [GitHub](https://github.com/anonfaded/weatherCLI) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/weathercli/total?label=Downloads\&logo=github)         |
+| 💻 Windows | <img src="https://github.com/anonfaded/windows101/raw/main/img/ss.png" width="40"><br> **Windows101**                                    | First experimental app built using C# for Windows.                                    | C#     | [GitHub](https://github.com/anonfaded/windows101) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/windows101/total?label=Downloads\&logo=github)         |
 
 </details>
 
 ---
 
+
 ## 🤝 Contributions
 
 | Project                                                                                                         | Description                                                                                                   | Link                                                     |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| <img src="https://github.com/anonfaded/HaramBlur/blob/f50eca38393d3a0a0731db2c6a5085250788b235/src/assets/hb-icon-128.png" width="40"> **HaramBlur** | Browser extension to blur and reduce exposure to inappropriate content online. Added Arabic language support. | [PR #56](https://github.com/alganzory/HaramBlur/pull/56) |
+| <img src="https://github.com/anonfaded/HaramBlur/blob/f50eca38393d3a0a0731db2c6a5085250788b235/src/assets/hb-icon-128.png" width="40"><br> **HaramBlur** | Browser extension to blur and reduce exposure to inappropriate content online. Added Arabic language support. | [PR #56](https://github.com/alganzory/HaramBlur/pull/56) |
+| <img src="https://github.com/anonfaded/pidcat/blob/master/screenshots/terminal.png?raw=true" width="40"><br> **pidcat** | A popular Python script for viewing color-coded `adb logcat`. Overhauled the script by adding full cross-platform support for Windows, vastly improving user feedback, and creating an interactive Windows automation script. | [PR #192](https://github.com/JakeWharton/pidcat/pull/192)|
 
+---
 
-
-
-
-
-
+If you want to reach out, check the [Contact](https://github.com/anonfaded/#-contact) section.
 
 ---
 
