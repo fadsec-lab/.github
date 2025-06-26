@@ -7,8 +7,19 @@
 
 [![Discord](https://img.shields.io/discord/1263384048194027520?label=Join%20Us%20on%20Discord&logo=discord)](https://discord.gg/kvAZvdkuuN )
 
-<!-- <img alt="Discord" src="https://img.shields.io/discord/1263384048194027520?style=social&logo=discord&label=Join%20chat&color=red"> -->
 </div>
+
+---
+
+> [!NOTE]
+> 📦 **Total Projects:** 22+  
+> 🤖 **Android Apps:** 7  💻 **Desktop Apps:** 11  
+> 🌍 **User Base:** 70,000+ users across 29+ countries  
+> 💻 **Platforms:** Android, Windows, Linux, macOS, Web  
+> 🧪 **Tech Stack:** Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo, HTML/CSS/JavaScript
+
+<!-- <img alt="Discord" src="https://img.shields.io/discord/1263384048194027520?style=social&logo=discord&label=Join%20chat&color=red"> -->
+
 
 ---
 
