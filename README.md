@@ -14,7 +14,7 @@
 > [!NOTE]
 > 📦 **Total Projects:** 22+  
 > 🤖 **Android Apps:** 7  💻 **Desktop Apps:** 11  
-> 🌍 **User Base:** 70,000+ users across 48+ countries  
+> 🌍 **User Base:** 70,000+ users across 51+ countries  
 > 💻 **Platforms:** Android, Windows, Linux, macOS, Web  
 > 🧪 **Tech Stack:** Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo, HTML/CSS/JavaScript
 
@@ -84,8 +84,9 @@
 
 | Project                                                                                                         | Description                                                                                                   | Link                                                     |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| <img src="https://github.com/anonfaded/HaramBlur/blob/f50eca38393d3a0a0731db2c6a5085250788b235/src/assets/hb-icon-128.png" width="40"><br> **HaramBlur** | Browser extension to blur and reduce exposure to inappropriate content online. Added Arabic language support. | [PR #56](https://github.com/alganzory/HaramBlur/pull/56) |
-| <img src="https://github.com/anonfaded/pidcat/blob/master/screenshots/terminal.png?raw=true" width="40"><br> **pidcat** | A popular Python script for viewing color-coded `adb logcat`. Overhauled the script by adding full cross-platform support for Windows, vastly improving user feedback, and creating an interactive Windows automation script. | [PR #192](https://github.com/JakeWharton/pidcat/pull/192)|
+| <img src="https://github.com/anonfaded/HaramBlur/blob/f50eca38393d3a0a0731db2c6a5085250788b235/src/assets/hb-icon-128.png" width="40"><br> **HaramBlur** | Browser extension to blur and reduce exposure to inappropriate content online.<br> Added Arabic language support. | [PR #56](https://github.com/alganzory/HaramBlur/pull/56) |
+| <img src="https://github.com/anonfaded/pidcat/blob/master/screenshots/terminal.png?raw=true" width="60"><br> **pidcat** | A popular Python script for viewing color-coded `adb logcat`. <br> Overhauled the script by adding full cross-platform support for Windows, vastly improving user feedback, and creating an interactive Windows automation script. | [PR #192](https://github.com/JakeWharton/pidcat/pull/192) <br> [GitHub repo](https://github.com/anonfaded/pidcat)|
+| <img src="https://github.com/permissionlesstech/bitchat-android/blob/013f0c00cf3ca1b7942fda6f1dac6f3e84b721f2/app/src/main/res/mipmap-hdpi/ic_launcher_adaptive_fore.png" width="60"><br> **bitchat** | A secure, decentralized, peer-to-peer messaging app that works over Bluetooth mesh networks. <br> Added battery optimization handling to the onboarding flow to ensure reliable background operation. | [PR #117](https://github.com/permissionlesstech/bitchat-android/pull/117)|
 
 ---
 
