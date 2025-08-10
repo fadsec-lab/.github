@@ -1,7 +1,12 @@
 <div align="center">
 
 
-![fadsec-main-footer](https://github.com/user-attachments/assets/595223bc-7b66-4cc1-a673-3d9fc55869d1)
+
+<!-- legacy fadseclab logo -->
+<!-- ![fadsec-main-footer](https://github.com/user-attachments/assets/595223bc-7b66-4cc1-a673-3d9fc55869d1) -->
+
+<img width="auto" height="250" alt="flag-png" src="https://github.com/user-attachments/assets/6bb51895-4e2a-479f-a960-9bc892bf011b" />
+
 
 **FadSec Lab** is a suite of Shariah Compliant, ad-free, privacy-focused open-source apps dedicated to enhancing user security and privacy. Our mission is to provide secure, efficient, and user-friendly applications that prioritize user data protection and eliminate intrusive ads. 
 
@@ -14,9 +19,9 @@
 > [!NOTE]
 > 📦 **Total Projects:** 22+  
 > 🤖 **Android Apps:** 7  💻 **Desktop Apps:** 11  
-> 🌍 **User Base:** 70,000+ users across 51+ countries  
+> 🌍 **User Base:** 80,000+ users across 51+ countries  
 > 💻 **Platforms:** Android, Windows, Linux, macOS, Web  
-> 🧪 **Tech Stack:** Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo, HTML/CSS/JavaScript
+> 🧪 **Tech Stack:** Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo, HTML/CSS/JavaScript, TypeScript
 
 <!-- <img alt="Discord" src="https://img.shields.io/discord/1263384048194027520?style=social&logo=discord&label=Join%20chat&color=red"> -->
 
