@@ -16,7 +16,7 @@
 
 > [!NOTE]
 > 📦 **Total Projects:** 22+  
-> 🤖 **Android Apps:** 7  💻 **Desktop Apps:** 11  
+> 🤖 **Android Apps:** 7  💻 **Desktop Apps:** 12  
 > 🌍 **User Base:** 80,000+ users across 51+ countries  
 > 💻 **Platforms:** Android, Windows, Linux, macOS, Web  
 > 🧪 **Tech Stack:** Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo, HTML/CSS/JavaScript, TypeScript
@@ -46,6 +46,7 @@
 | 🐧 macOS/Linux   | <img src="https://github.com/anonfaded/wifade/blob/f0cca7437c063269fe71fdc593a7a75bca656262/img/logo.png" width="50"><br>**WiFade**                           | Shell-based script for brute-forcing Wi-Fi networks using password wordlists.                                       | Shell   | [GitHub](https://github.com/anonfaded/wifade) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/wifade/total?label=Downloads&logo=github)                                                        |
 | 📦 Library       | <img src="https://github.com/arthenica/ffmpeg-kit/blob/main/docs/assets/ffmpeg-kit-icon-v9.png" width="50"><br>**FFmpeg Kit (Mod)**                           | Full-GPL variant of FFmpeg-Kit modified with reproducible builds for F-Droid. For Flutter, Java etc and custom `AAR` build guide in README file. | Mixed   | [GitHub](https://github.com/anonfaded/ffmpeg-kit) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/ffmpeg-kit/total?label=Downloads&logo=github)                                                |
 | 🕸️ Web           | <img src="https://github.com/user-attachments/assets/b03fa601-9e53-4247-bad1-de5807a5fa31" width="50"><br>**CyberSec Blog Website Template** | A cybersecurity-themed Hugo website template. Built for easy setup in under 5 mins with detailed configuration guide.               | Hugo              | [GitHub](https://github.com/anonfaded/hugo-winston-cyber)                |
+| 💻 WindowsLinux/macOS | <img src="https://github.com/anonfaded/NotepadDecoder/raw/main/img/banner.png" width="40"><br> **NotepadDecoder** | Recover and decode unsaved Windows Notepad Binary files into readable notes. | Python | [🌐 Website](https://blog.faded.dev/posts/notepad_decoder) <br> [GitHub](https://github.com/anonfaded/NotepadDecoder) | 
 
 ---
 
